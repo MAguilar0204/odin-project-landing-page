@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    gap: 16px;
+    list-style-type: none;
+}
+
+.box {
+    border: solid 3px #3882F6;
+    border-radius: 15px;
+    width: 125px;
+    height: 125px;
+}
